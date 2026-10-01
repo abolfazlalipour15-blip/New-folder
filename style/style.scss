@@ -1,0 +1,40 @@
+@import "narz";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: $bg-primry;
+    text-align: center;
+    padding: $p-3;
+
+    h1 {
+        font-size: $larg-text;
+        color: $white-text;
+    }
+
+}
+
+main {
+    margin: $mt-1;
+    div {
+        aside {
+            li {
+                list-style: none;
+
+            }
+
+            a {
+                padding: $p-1;
+            }
+        }
+
+        article {
+            
+        }
+
+    }
+
+}

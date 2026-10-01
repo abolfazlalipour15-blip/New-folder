@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  text-align: center;
+  padding: 100px;
+}
+
+header h1 {
+  font-size: 50px;
+  color: #f2f2f2;
+}
+
+main {
+  margin: 15px;
+}
+
+main div aside li {
+  list-style: none;
+}
+
+main div aside a {
+  padding: 15px;
+}
+/*# sourceMappingURL=style.css.map */
